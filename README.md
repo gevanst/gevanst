@@ -1,5 +1,5 @@
 - Hi, I’m @gevanst
-- I’m interested in robotics
+- I’m interested in Mechanical Design, Automation and robotics
 - I’m currently in school for ocean engineering
 - How to reach me gtevans@hawaii.edu
 
